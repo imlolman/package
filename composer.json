@@ -1,5 +1,5 @@
 {
-    "name": "imlolman/package",
+    "name": "imlolman/hello",
     "type": "library",
     "autoload": {
         "psr-4": {
