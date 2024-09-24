@@ -1,0 +1,16 @@
+{
+    "name": "imlolman/package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Imlolman\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Satyam",
+            "email": "satyam.gupta756@gmail.com"
+        }
+    ],
+    "require": {}
+}
